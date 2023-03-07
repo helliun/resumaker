@@ -1,3 +1,5 @@
+# This module was created entirely by ChatGPT!
+
 To use the ResumeGenerator class that is defined in the resumaker.py module, follow these steps:
 
 1. Import the ResumeGenerator class by adding the statement from resumaker import ResumeGenerator to the top of your python file.
